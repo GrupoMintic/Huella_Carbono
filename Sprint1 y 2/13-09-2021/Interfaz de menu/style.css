@@ -1,0 +1,8 @@
+/* Importacion de fuentes de google */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+:root {
+    --color-primary: #0020ad;
+    --color-secundary: #764ba2;
+    --boton-padding: 20px 40px;
+}
